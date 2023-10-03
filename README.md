@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawankumar-vishwakarma&label=Profile%20views&color=0e75b6&style=flat" alt="pawankumar-vishwakarma" /> </p>
 
-- 🌱 I’m currently learning **C#,SQL SERVER, .NET & Angular**
+- 🌱 I’m currently learning **.NET & Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pawankumar-vishwakarma](https://github.com/pawankumar-vishwakarma)
 
-- 💬 Ask me about **.NET & SQL SERVER**
+- 💬 Ask me about **.NET & Angular**
 
 - 📫 How to reach me **pawan07052001@gmail.com**
 
