@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawankumar-vishwakarma&label=Profile%20views&color=0e75b6&style=flat" alt="pawankumar-vishwakarma" /> </p>
 
-- 🌱 I’m currently learning **.NET & Angular**
+- 🌱 I’m currently learning **.NET Core, MVC & Angular**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pawankumar-vishwakarma](https://github.com/pawankumar-vishwakarma)
+- 👨‍💻 All of my projects are available at [https://github.com/pawankumar-vishwakarma](https://github.com/pawankumar-vishwakarma?tab=repositories)
 
 - 💬 Ask me about **.NET & Angular**
 
