@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pawan Kumar Vishwakarma</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/pawankumar-vishwakarma/pawankumar-vishwakarma/main/GitHub Cover Image.png"> </div>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/pawankumar-vishwakarma/pawankumar-vishwakarma/main/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawankumar-vishwakarma&label=Profile%20views&color=0e75b6&style=flat" alt="pawankumar-vishwakarma" /> </p>
 
-- 🌱 I’m currently learning **.NET Core, MVC & Angular**
+- 🌱 I’m currently learning **.NET Core, DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pawankumar-vishwakarma](https://github.com/pawankumar-vishwakarma?tab=repositories)
 
-- 💬 Ask me about **.NET & Angular**
+- 💬 Ask me about **.NET & DevOps**
 
 - 📫 How to reach me **pawan07052001@gmail.com**
 
